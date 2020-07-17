@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "passportauth", "..\..\..\Desktop\COMP2068-Lab4\passportauth.njsproj", "{B1F42A16-8007-4F5E-A115-F826DE9DCE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F42A16-8007-4F5E-A115-F826DE9DCE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F42A16-8007-4F5E-A115-F826DE9DCE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F42A16-8007-4F5E-A115-F826DE9DCE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F42A16-8007-4F5E-A115-F826DE9DCE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E4E19D-93A0-43EB-AE1D-0B26D0BC1C4C}
+	EndGlobalSection
+EndGlobal
